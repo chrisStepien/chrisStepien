@@ -21,13 +21,11 @@
   
 
 ## 📊 Github Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=windows-dark&border_radius=5)](https://git.io/streak-stats)
-<summary><h3>Languages</h3></summary>
-            <p align="center">
+      <p align="center">
         <a href="https://github.com/chrisStepien/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisStepien&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="chrisStepien :: overall Top Langs " /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisStepien&langs_count=6&theme=windows-dark&layout=compact&hide_border=true"
+          alt="chrisStepien :: overall Top Langs "/>
+        </a>
       </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
