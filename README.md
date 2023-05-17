@@ -22,3 +22,4 @@
 
 ## 📊 Github Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=windows-dark&border_radius=5)](https://git.io/streak-stats)
