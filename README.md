@@ -23,3 +23,9 @@
 ## 📊 Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=windows-dark&border_radius=5)](https://git.io/streak-stats)
+ <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chrisStepien&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="(https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=windows-dark&border_radius=5)" />
+          </a>
+       </p>
