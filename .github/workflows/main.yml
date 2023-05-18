@@ -7,8 +7,6 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    permissions:
-      actions: write
     steps:
       # Snake Animation
       - uses: Platane/snk@master
