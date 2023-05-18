@@ -29,13 +29,10 @@
   </div>
   </details>  
   
-  <details open><summary><h2>📊 GitHub Stats</h2></summary>
-  
+  <details open><summary><h3>📊 GitHub Stats</h3></summary>
   <div>
-    <samp>         
-<p align="center">
+    <samp><p align="center">
   <a href="https://github.com/chrisStepien/">
-    <br/>
     <p align="center">
   <a href="https://github.com/chrisStepien/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisStepien&langs_count=6&theme=algolia&layout=compact&hide_border=true" alt="chrisStepien :: overall Top Langs "/>
