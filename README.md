@@ -1,4 +1,5 @@
-<h1 align="center"><img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/> Hi, I'm Chris Stepien <img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/></h1>
+<div align="center"><h1><img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/>Hi, I'm Chris Stepien<img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/></h1></div>
+<img align="center" width="100%" height="2" src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif"/>
 <div>
   <h3>About Me <img width="4%" src="https://media.tenor.com/FiKchJ5HpksAAAAi/tkthao219-bubududu.gif"/>:</h3>
 <p>I am Computer Information Systems graduate and an aspiring FullStack Web Developer.<br/>
@@ -17,7 +18,8 @@ I am looking for a job opportunity in web or software development.<br/>
 </ul>
   </div>
 <br/><br/>
-<hr>
+<img align="center" width="100%" height="2" src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif"/>
+
   <details open><summary align="left"><img width="5%" src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif"/><h2>My Favorite Tools</h2></summary>
   <p align="center">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
