@@ -5,7 +5,7 @@
 I am looking for a job opportunity in web or software development.<br/>
   I am interested in learning new programming languages and working with new technologies.</p>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="250" />
+<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="230" />
 <ul>
 <li> 🔭 I’m currently working on a Resume/Portfolio website for myself.</li>
 <li>🌱 I’m currently learning Python.</li>
