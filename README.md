@@ -19,11 +19,11 @@
   ### IDEs
   
 <details>
-  <summar> 📊 GitHub Stats </summary>
+  <summary> 📊 GitHub Stats </summary>
   <div>
     <samp>
       <details open>
-<summary><h3>Languages & Repos</h3></summary>
+<summary><h3>Language Distributions</h3></summary>
 <p align="center">
   <a href="https://github.com/chrisStepien/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisStepien&langs_count=6&theme=algolia&layout=compact&hide_border=true" alt="chrisStepien :: overall Top Langs "/>
