@@ -32,10 +32,6 @@
     <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrisStepien&theme=gruvbox&layout=compact&hide_border=true" alt="chrisStepien :: Top Langs by commit" />
   </a>
 </p>
-<h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=chrisStepien&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-</a>
 <p align="center">
   <a href="https://github.com/chrisStepien/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chrisStepien&show_icons=true&theme=gruvbox&hide_border=true" />
