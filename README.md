@@ -2,7 +2,7 @@
 
 <p align="center"><b>An aspiring Full-Stack Web Developer from Calgary, Alberta</b></p>
 
-![Snake animation](https://github.com/eagrundy/chrisStepien/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/chrisStepien/chrisStepien/blob/output/github-contribution-grid-snake.svg)
 
 <details open><summary><h2>Contact</h2></summary>
   <div>
