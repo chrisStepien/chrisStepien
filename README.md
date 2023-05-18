@@ -27,7 +27,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/1999AZZAR/">
+  <a href="https://github.com/chrisStepien/">
     <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisStepien&theme=algolia&layout=compact&hide_border=true" alt="chrisStepien :: Top Langs by repo" />
     <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrisStepien&theme=algolia&layout=compact&hide_border=true" alt="chrisStepien :: Top Langs by commit" />
   </a>
@@ -35,6 +35,6 @@
 <p align="center">
   <a href="https://github.com/chrisStepien/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chrisStepien&show_icons=true&theme=algolia&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=algolia&border_radius=5" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=algolia&hide_border=true" />
   </a>
 </p>
