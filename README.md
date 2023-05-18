@@ -1,10 +1,9 @@
-<h1 align="center"><b>Hi, I'm Chris Stepien </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Chris Stepien! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 😀 About Me
+<p align="center"><b>An aspiring Full-Stack Web Developer from Calgary, Alberta</b></p>
 
--  
-- 
-- 
+![Snake animation](https://github.com/chrisStepien/chrisStepien/blob/output/github-contribution-grid-snake.svg)
+
 
 ## ⌨ Skills 
   
