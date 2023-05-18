@@ -18,9 +18,11 @@
   
   ### IDEs
   
-  
-
-## 📊 Github Statitistics
+<details>
+  <summar> 📊 GitHub Stats </summary>
+  <div>
+    <samp>
+      <details open>
 <summary><h3>Languages & Repos</h3></summary>
 <p align="center">
   <a href="https://github.com/chrisStepien/">
@@ -39,4 +41,7 @@
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chrisStepien&show_icons=true&theme=algolia&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=algolia&hide_border=true" />
   </a>
-</p>
+        </p>
+        </div>
+      </details>
+    
