@@ -14,14 +14,13 @@ I am looking for a job opportunity in web or software development.<br/>
 <li> 🤔 I’m looking for help with Backend Development.</li>
 <li>💬 Ask me about Frontend Development.</li>
 <li>😄 Pronouns: He/Him</li>
-<li> ⚡ Fun fact: I 💖 to learn new things.</li>
+<li>⚡ Fun fact: I 💖 to learn new things.</li>
 </ul>
   </div></samp>
 <br/><br/>
-<img align="center" width="100%" height="2" src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif"/>
+<hr>
 
-
-  <samp><details open><summary align="left"><img width="5%" src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif"/>&nbsp;<h3>My Favorite Tools</h3></summary>  </samp>
+  <samp><details open><summary align="left"><img width="5%" src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif"/>&nbsp;<h3>My Favorite Tools</h3></summary></samp>
 
   <p align="center">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
