@@ -13,7 +13,7 @@ I am looking for a job opportunity in web or software development.<br/>
 <li> 🤔 I’m looking for help with Backend Development.</li>
 <li>💬 Ask me about Frontend Development.</li>
 <li>😄 Pronouns: He/Him</li>
-<li> ⚡ Fun fact: I 💖 to code 24x7.</li>
+<li> ⚡ Fun fact: I 💖 to learn new things.</li>
 </ul>
   </div>
 <br/><br/>
