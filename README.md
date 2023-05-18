@@ -1,5 +1,5 @@
 <div align="center"><h1><img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/>Hi, I'm Chris Stepien<img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/></h1></div>
-<img align="center" width="100%" height="2" src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif"/>
+<samp>
 <div>
   <h3>About Me <img width="4%" src="https://media.tenor.com/FiKchJ5HpksAAAAi/tkthao219-bubududu.gif"/>:</h3>
 <p>I am Computer Information Systems graduate and an aspiring FullStack Web Developer.<br/>
@@ -16,11 +16,13 @@ I am looking for a job opportunity in web or software development.<br/>
 <li>😄 Pronouns: He/Him</li>
 <li> ⚡ Fun fact: I 💖 to learn new things.</li>
 </ul>
-  </div>
+  </div></samp>
 <br/><br/>
 <img align="center" width="100%" height="2" src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif"/>
 
-  <details open><summary align="left"><img width="5%" src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif"/><h2>My Favorite Tools</h2></summary>
+
+  <samp><details open><summary align="left"><img width="5%" src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif"/>&nbsp;<h3>My Favorite Tools</h3></summary>  </samp>
+
   <p align="center">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code> 
@@ -59,9 +61,10 @@ I am looking for a job opportunity in web or software development.<br/>
   
   </details>  
   <hr>
+  <samp>
 <div align="center">
   <h3><b>Connect with Me 😄 </b></h3>
-  </div>
+  </div></samp>
 <p align="center">
 <a href="https://www.linkedin.com/in/christopher-stepien-315716170/" target="_blank">
   <img align="center" alt="Chris Stepien  | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -75,10 +78,13 @@ I am looking for a job opportunity in web or software development.<br/>
 <a href="https://www.facebook.com/christopher.stepien.10">
     <img align="center" alt="Chris Stepien | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a>
+  
  <hr> 
-  <details open><summary align="left"><img width="5%" src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif"/>&nbsp;&nbsp;<h2>GitHub Stats</h2></summary>
+ <samp>
+  <details open><summary align="left"><img width="5%" src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif"/>&nbsp;<h3>GitHub Stats</h3></summary>
+  </samp>
   <div>
-    <samp><p align="center">
+    <p align="center">
   <a href="https://github.com/chrisStepien/">
     <p align="center">
   <a href="https://github.com/chrisStepien/">
@@ -89,7 +95,6 @@ I am looking for a job opportunity in web or software development.<br/>
     <img width="49.5%" height="190" src="https://github-readme-stats.vercel.app/api?username=chrisStepien&show_icons=true&theme=algolia&hide_border=true" />
     <img width="49.5%" height="190" src="https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=algolia&hide_border=true" /></a>
       </p>
-  </samp>
 </div>
   </details>  
 <hr>  
