@@ -2,11 +2,20 @@
 
 <p align="center"><b>An aspiring Full-Stack Web Developer from Calgary, Alberta</b></p>
 
-![Snake animation](https://github.com/chrisStepien/chrisStepien/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eagrundy/chrisStepien/blob/output/github-contribution-grid-snake.svg)
+
+<details open><summary><h2>Contact</h2></summary>
+  <div>
+    <samp>
+    
+    </samp>
+  </div>
+  </details>  
 
 
-## ⌨ Skills 
-  
+<details open><summary><h2>Skills</h2></summary>
+  <div>
+    <samp>
   ### Programming Languages
   
   ### Front-end Development
@@ -16,31 +25,25 @@
   ### Software & Tools
   
   ### IDEs
+    </samp>
+  </div>
+  </details>  
   
-  ## 📊 GitHub Stats
+  <details open><summary><h2>📊 GitHub Stats</h2></summary>
+  
   <div>
-    <samp>
-          <details open>
-<summary><h3 align="center">Contributions</h3></summary>
+    <samp>         
 <p align="center">
   <a href="https://github.com/chrisStepien/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chrisStepien&show_icons=true&theme=algolia&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=algolia&hide_border=true" /></a>
-        </p>
-      </details>
-      <details open>
-<summary><h3 align="center">Language Distributions</h3></summary>
-<p align="center">
+    <br/>
+    <p align="center">
   <a href="https://github.com/chrisStepien/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisStepien&langs_count=6&theme=algolia&layout=compact&hide_border=true" alt="chrisStepien :: overall Top Langs "/>
   </a>
-</p>     
-<p align="center">
-  <a href="https://github.com/chrisStepien/">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisStepien&theme=algolia&layout=compact&hide_border=true" alt="chrisStepien :: Top Langs by repo" />
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrisStepien&theme=algolia&layout=compact&hide_border=true" alt="chrisStepien :: Top Langs by commit" />
-  </a>
-</p>
-           </details>
+</p> 
+    <img width="49.5%" height="200" src="https://github-readme-stats.vercel.app/api?username=chrisStepien&show_icons=true&theme=algolia&hide_border=true" />
+    <img width="49.5%" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=chrisStepien&theme=algolia&hide_border=true" /></a>
+        </p>
+      </details>
   </samp>
 </div>
