@@ -16,11 +16,9 @@ I am looking for a job opportunity in web or software development.<br/>
 <li> ⚡ Fun fact: I 💖 to code 24x7.</li>
 </ul>
   </div>
-<br/><br/>
+<br/>
 <hr>
-  <details open><summary align="left"><img width="5%" src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif"/> <h2>My Favorite Tools</h2></summary>
-    
-  
+  <details open><summary align="left"><img width="5%" src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif"/><h2>My Favorite Tools</h2></summary>
   <p align="center">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code> 
