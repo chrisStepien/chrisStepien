@@ -26,9 +26,7 @@ I am looking for a job opportunity in web or software development.<br/>
   </div>
   </div>
 </samp>
-<br/>
-<br/>
-
+<br/><br/>
 <hr>
 
   <samp>
