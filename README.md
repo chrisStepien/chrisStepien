@@ -7,6 +7,25 @@
 </div>
 <samp>
 <div>
+  <samp>
+<div align="center">
+  <h3><b>Connect with Me 😄 </b></h3>
+  </div></samp>
+<p align="center">
+<a href="https://www.linkedin.com/in/christopher-stepien-315716170/" target="_blank">
+  <img align="center" alt="Chris Stepien  | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/chris.steps/" target="_blank">
+  <img align="center" alt="Chris Stepien | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:christepien@gmail.com" >
+  <img align="center" alt="Chris Stepien | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/christopher.stepien.10">
+    <img align="center" alt="Chris Stepien | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a>
+  
+ <hr>
   <h3>About Me <img width="4%" src="https://media.tenor.com/FiKchJ5HpksAAAAi/tkthao219-bubududu.gif"/>:</h3>
 <p>I am Computer Information Systems graduate and an aspiring FullStack Web Developer.<br/>
 I am looking for a job opportunity in web or software development.<br/>
@@ -71,25 +90,7 @@ I am looking for a job opportunity in web or software development.<br/>
   
   </details>  
   <hr>
-  <samp>
-<div align="center">
-  <h3><b>Connect with Me 😄 </b></h3>
-  </div></samp>
-<p align="center">
-<a href="https://www.linkedin.com/in/christopher-stepien-315716170/" target="_blank">
-  <img align="center" alt="Chris Stepien  | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/chris.steps/" target="_blank">
-  <img align="center" alt="Chris Stepien | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:christepien@gmail.com" >
-  <img align="center" alt="Chris Stepien | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/christopher.stepien.10">
-    <img align="center" alt="Chris Stepien | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a>
-  
- <hr> 
+   
  <samp>
   <details open><summary align="left"><img width="5%" src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif"/>&nbsp;<h3>GitHub Stats</h3></summary>
   </samp>
