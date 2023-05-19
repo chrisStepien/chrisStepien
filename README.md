@@ -15,7 +15,7 @@ I am looking for a job opportunity in web or software development.<br/>
 <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="230" />
 <div align="left">
   <ul>
-<li> 🔭 I’m currently working on a Resume/Portfolio website for myself.</li>
+<li> 🔭 I’m currently working on a Resume/Portfolio website.</li>
 <li>🌱 I’m currently learning Python.</li>
 <li> 👯 I’m looking to collaborate with Web Developers.</li>
 <li> 🤔 I’m looking for help with Backend Development.</li>
