@@ -1,4 +1,10 @@
-<div align="center"><h1><img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/>Hi, I'm Chris Stepien<img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/></h1></div>
+<div align="center">
+  <h1>
+    <img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/>
+    Hi, I'm Chris Stepien
+    <img width="7%" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/>
+  </h1>
+</div>
 <samp>
 <div>
   <h3>About Me <img width="4%" src="https://media.tenor.com/FiKchJ5HpksAAAAi/tkthao219-bubududu.gif"/>:</h3>
@@ -18,45 +24,50 @@ I am looking for a job opportunity in web or software development.<br/>
 <li>⚡ Fun fact: I 💖 to learn new things.</li>
 </ul>
   </div>
-  </div></samp>
-<br/><br/>
+  </div>
+</samp>
+<br/>
+<br/>
+
 <hr>
 
-  <samp><details open><summary align="left"><img width="5%" src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif"/>&nbsp;<h3>My Favorite Tools</h3></summary></samp>
+  <samp>
+  <details open><summary align="left"><img width="5%" src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif"/>&nbsp;<h3>My Favorite Tools</h3></summary>
+  </samp>
 
   <p align="center">
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code> 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
     
   </p>        
   <p align="center">
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>   
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>   
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   </p>
   
   <p align="center">
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>    
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>    
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
   </p> 
   
   <p align="center">  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   </p>
     
   <p align="center"> 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   </p>
   
   
