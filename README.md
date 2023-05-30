@@ -34,8 +34,8 @@ I am looking for a job opportunity in web or software development.<br/>
 <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="210" />
 <div align="left">
   <ul>
-<li> 🔭 I’m currently working on a Resume/Portfolio website.</li>
-<li>🌱 I’m currently learning Python.</li>
+<li> 🔭 I’m currently working on a Resume/Portfolio website using the MERN Stack.</li>
+<li>🌱 I’m currently learning Rust, Docker and Redis.</li>
 <li> 👯 I’m looking to collaborate with Web Developers.</li>
 <li> 🤔 I’m looking for help with Backend Development.</li>
 <li>💬 Ask me about Frontend Development.</li>
@@ -116,7 +116,7 @@ I am looking for a job opportunity in web or software development.<br/>
 
 [Chris Stepien](https://github.com/chrisStepien)
 
-Last Edited on: 05/18/2023
+Last Edited on: 05/30/2023
 
 
 <hr>
