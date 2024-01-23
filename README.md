@@ -27,7 +27,7 @@
   
  <hr>
   <h3>About Me <img width="4%" src="https://media.tenor.com/FiKchJ5HpksAAAAi/tkthao219-bubududu.gif"/>:</h3>
-<p>I am Computer Information Systems graduate and an aspiring FullStack Web Developer.<br/>
+<p>I am a Computer Information Systems graduate and an aspiring FullStack Web Developer.<br/>
 I am looking for a job opportunity in web or software development.<br/>
   I am interested in learning new programming languages and working with new technologies.</p>
 
@@ -35,7 +35,7 @@ I am looking for a job opportunity in web or software development.<br/>
 <div align="left">
   <ul>
 <li> 🔭 I’m currently working on a Resume/Portfolio website using the MERN Stack.</li>
-<li>🌱 I’m currently learning Rust, Docker and Redis.</li>
+<li>🌱 I’m currently studying for my CCNA.</li>
 <li> 👯 I’m looking to collaborate with Web Developers.</li>
 <li> 🤔 I’m looking for help with Backend Development.</li>
 <li>💬 Ask me about Frontend Development.</li>
